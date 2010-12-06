@@ -1,0 +1,21 @@
+This is a repository for collecting Haskell problem sets from working through
+the book "Programming in Haskell" by Graham Hutton as well as watching the
+lectures by Erik Meijer on Channel 9. 
+
+Many of the problems assigned in the lecture are duplicated in the book, but
+when they are unique both will be completed. 
+
+All submissions will be in literate Haskell files (.lhs), as well as in
+Portable Document Format (.pdf), the latter of which will simply be the result
+of running pdflatex on the former.
+
+The point of all of this is to get feedback, so it is encouraged. 
+
+Any of my original work (all solutions) are completely free for any use
+whatsoever (they will probably not be substantial enough for any real use),
+though there are probably restrictions on the problems as they are adapted
+only slightly from the book and/or lecture. 
+
+Any questions, or comments will be welcomed at nalaurethsulfate@aol.com.
+
+
